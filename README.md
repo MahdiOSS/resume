@@ -1,5 +1,5 @@
 # resume_flutter
-<h3 align = "center">My Resume Application ( FLutter )</h3>
+<h3 align = "center">My Resume Application ( Flutter )</h3>
 <br/>
 <br/>
 <div align = "center">
